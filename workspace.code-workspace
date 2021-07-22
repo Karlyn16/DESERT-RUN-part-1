@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/game pictures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "p5"
+	}
+}
